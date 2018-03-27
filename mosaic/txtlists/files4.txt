@@ -1,0 +1,9 @@
+../images/img1.bmp
+../images/img2.bmp
+../images/img3.bmp
+../images/img4.bmp
+../images/img5.bmp
+../images/img6.bmp
+../images/img7.bmp
+../images/img8.bmp
+../images/img9.bmp
